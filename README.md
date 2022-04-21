@@ -1,1 +1,2 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# FYP-NextJS-Project
+This is the code for the frontend part of the project.
