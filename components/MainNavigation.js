@@ -12,13 +12,10 @@ function MainNavigation(props) {
               <Link href="/">Home</Link>
             </space>
             <space>
-              <Link href="/LoginPage">Login</Link>
-            </space>
-            <space>
-              <Link href="RegPage">Register</Link>
-            </space>
-            <space>
               <Link href ="/ChartPage">Activity Graph</Link>
+            </space>
+            <space>
+              <Link href ="/GaugePage">Total Activity</Link>
             </space>
           </titles>
         </nav>

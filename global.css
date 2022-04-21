@@ -10,7 +10,7 @@ body {
   height: 510px;
   position: relative;
   margin: 6% auto;
-  background: rgb(255, 255, 255);
+  background: #ffffff;
 }
 
 .form{
@@ -62,7 +62,7 @@ body {
   border-right: 0;
   border-left: 0;
   border-top: 0;
-  border-bottom: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid #000000;
   outline: none;
   background: transparent;
 }
@@ -96,7 +96,7 @@ body {
 .footer {
   padding-top: 45px;
   height: 75px; 
-  background-color: rgb(94, 94, 94);
+  background-color: #5e5e5e;
   width: 100%;
   color: rgb(255, 255, 255);
   font-size: 24px;
@@ -109,7 +109,7 @@ body {
   position: relative;
   margin: 6% auto;
   padding: 50px;
-  background: rgb(255, 255, 255);
+  background: #ffffff;
 }
 
  .intro{

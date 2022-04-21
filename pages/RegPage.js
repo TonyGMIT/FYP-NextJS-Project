@@ -1,15 +1,19 @@
-import Register from '../components/Register';
-import Footer from '../components/Footer';
-import Head from 'next/head';
+//*****Not Finished*****
 
-export default function RegPage() {
-  return (
-    <>
-      <Head>
-        <title>Smart Tabs - Registration</title>
-      </Head>
-      <Register />
-      <Footer />
-    </>
-  )
-}
+
+
+// import Register from '../components/Register';
+// import Footer from '../components/Footer';
+// import Head from 'next/head';
+
+// export default function RegPage() {
+//   return (
+//     <>
+//       <Head>
+//         <title>Smart Tabs - Registration</title>
+//       </Head>
+//       <Register />
+//       <Footer />
+//     </>
+//   )
+// }
